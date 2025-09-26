@@ -2,7 +2,7 @@
 
 ![Portfolio Banner](./images/banner.png)
 
-Hi! I’m **Suhana Samanta**, a web developer skilled in **HTML, CSS, and JavaScript and specializing in Ai and machine Learning**. This repo showcases my projects and skills.
+Hi! I’m **Suhana Samanta**, a web developer skilled in **HTML, CSS, and JavaScript and specializing in AI and Machine Learning**. This repo showcases my projects and skills.
 
 
 ---
