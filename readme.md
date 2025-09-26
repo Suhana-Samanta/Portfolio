@@ -1,12 +1,21 @@
 # Suhana Samanta Portfolio
 
-![Portfolio Banner](./images/banner.png)
+Hi! I’m **Suhana Samanta**, a web developer skilled in **HTML, CSS, and JavaScript, specializing in AI and Machine Learning**. This repo showcases my projects and skills.
 
-Hi! I’m **Suhana Samanta**, a web developer skilled in **HTML, CSS, and JavaScript and specializing in AI and Machine Learning**. This repo showcases my projects and skills.
+---
 
+## 🖼 Portfolio Screenshots
+
+![Portfolio Screenshot 1](https://github.com/Suhana-Samanta/Portfolio/raw/main/images/Screenshot%201.png)  
+![Portfolio Screenshot 2](https://github.com/Suhana-Samanta/Portfolio/raw/main/images/Screenshot%203.png)  
+![Portfolio Screenshot 3](https://github.com/Suhana-Samanta/Portfolio/raw/main/images/Screenshot.png)  
+![Portfolio Screenshot 4](https://github.com/Suhana-Samanta/Portfolio/raw/main/images/Screenshot%204.png)  
+
+> *Note: Use `raw` in the URL so images display correctly on GitHub.*
 
 ---
 
 ## 📫 Contact
-- Email: suhanasamanta2003@gmail.com  
-- GitHub: [@suhanasamanta](https://github.com/suhanasamanta)
+
+- **Email:** suhanasamanta2003@gmail.com  
+- **GitHub:** [@suhanasamanta](https://github.com/suhanasamanta)
