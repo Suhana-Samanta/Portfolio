@@ -11,7 +11,6 @@ Hi! I’m **Suhana Samanta**, a web developer skilled in **HTML, CSS, and JavaSc
 ![Portfolio Screenshot 3](https://github.com/Suhana-Samanta/Portfolio/raw/main/images/Screenshot.png)  
 ![Portfolio Screenshot 4](https://github.com/Suhana-Samanta/Portfolio/raw/main/images/Screenshot%204.png)  
 
-> *Note: Use `raw` in the URL so images display correctly on GitHub.*
 
 ---
 
