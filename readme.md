@@ -1,4 +1,4 @@
-# Suhana Samanta Portfolio
+# Portfolio
 
 Hi! I’m **Suhana Samanta**, a web developer skilled in **HTML, CSS, and JavaScript, specializing in AI and Machine Learning**. This repo showcases my projects and skills.
 
